@@ -18,7 +18,7 @@ The solution is structured as follows:
 5. Results
 
 
-The regressors that are used for the ensemble are: 
+The regressors that are ensembled are: 
 
 * Lasso
 * ElasticNet
